@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DataTablesCustom:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/DataTablesCustom_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DataTablesCustom" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="gson-2.3.1" />
+          <element id="library" level="project" name="sqlite-jdbc-3.7.6.3-20110609.081603-3" />
+          <element id="library" level="project" name="servlet-api-2.5" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="DataTablesCustom/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapPrefix" value="" />
+    <option name="sourceMapEmbedSources" value="inlining" />
+  </component>
+  <component name="MarkdownProjectSettings">
+    <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
+      <PanelProvider>
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+      </PanelProvider>
+    </PreviewSettings>
+    <ParserSettings gitHubSyntaxChange="false">
+      <PegdownExtensions>
+        <option name="ABBREVIATIONS" value="false" />
+        <option name="ANCHORLINKS" value="true" />
+        <option name="ASIDE" value="false" />
+        <option name="ATXHEADERSPACE" value="true" />
+        <option name="AUTOLINKS" value="true" />
+        <option name="DEFINITIONS" value="false" />
+        <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+        <option name="FENCED_CODE_BLOCKS" value="true" />
+        <option name="FOOTNOTES" value="false" />
+        <option name="HARDWRAPS" value="false" />
+        <option name="HTML_DEEP_PARSER" value="false" />
+        <option name="INSERTED" value="false" />
+        <option name="QUOTES" value="false" />
+        <option name="RELAXEDHRULES" value="true" />
+        <option name="SMARTS" value="false" />
+        <option name="STRIKETHROUGH" value="true" />
+        <option name="SUBSCRIPT" value="false" />
+        <option name="SUPERSCRIPT" value="false" />
+        <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+        <option name="SUPPRESS_INLINE_HTML" value="false" />
+        <option name="TABLES" value="true" />
+        <option name="TASKLISTITEMS" value="true" />
+        <option name="TOC" value="false" />
+        <option name="WIKILINKS" value="true" />
+      </PegdownExtensions>
+      <ParserOptions>
+        <option name="COMMONMARK_LISTS" value="true" />
+        <option name="DUMMY" value="false" />
+        <option name="EMOJI_SHORTCUTS" value="true" />
+        <option name="FLEXMARK_FRONT_MATTER" value="false" />
+        <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+        <option name="GFM_TABLE_RENDERING" value="true" />
+        <option name="GITBOOK_URL_ENCODING" value="false" />
+        <option name="GITHUB_EMOJI_URL" value="false" />
+        <option name="GITHUB_LISTS" value="false" />
+        <option name="GITHUB_WIKI_LINKS" value="true" />
+        <option name="JEKYLL_FRONT_MATTER" value="false" />
+        <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+      </ParserOptions>
+    </ParserSettings>
+    <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true">
+      <GeneratorProvider>
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+      </GeneratorProvider>
+      <headerTop />
+      <headerBottom />
+      <bodyTop />
+      <bodyBottom />
+    </HtmlSettings>
+    <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
+      <StylesheetProvider>
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+      </StylesheetProvider>
+      <ScriptProviders />
+      <cssText />
+    </CssSettings>
+    <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
+    <LinkMapSettings>
+      <textMaps />
+    </LinkMapSettings>
+  </component>
+  <component name="PreferredVcsStorage">
+    <preferredVcsName>ApexVCS</preferredVcsName>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (3)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="67af114c-d6b6-4855-805d-907c0d6da1bb" />
+      <option name="name" value="67af114c-d6b6-4855-805d-907c0d6da1bb" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="83d2153f-646d-48c5-887c-da3ac9b3ebf4" />
+      <option name="name" value="83d2153f-646d-48c5-887c-da3ac9b3ebf4" />
+      <option name="url" value="http://192.168.18.47:8081/nexus/content/groups/public/" />
+    </remote-repository>
+  </component>
+</project>
